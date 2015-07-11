@@ -13,7 +13,7 @@ In the future the list will be updated, as we will be using and adding our own P
 
 We used Packer to create machine image based on `Windows Server 2012R2` for development virtualization using `Virtual Box`.
 
-https://packer.io/
+[https://packer.io/](https://packer.io/)
 
 > Hint: We used `headless: false` in Packer configuration file for builder to be able to get accustomed with Packer image creation.
 
