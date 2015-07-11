@@ -33,6 +33,12 @@ We have used `windows_2012_r2` template when creating Packer machine image.
 
 The machine image created with `Packer` was then registered as `Vagrant` box and installed and run on local development machine with `Windows 8.1` host system.
 
+### Virtual Box
+
+> VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. 
+
+[https://www.virtualbox.org/](https://www.virtualbox.org/)
+
 ## Author
 
 Peter Blazejewicz
