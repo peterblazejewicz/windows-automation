@@ -17,6 +17,15 @@ https://packer.io/
 
 > Hint: We used `headless: false` in Packer configuration file for builder to be able to get accustomed with Packer image creation.
 
+### Windows Packer Templates
+
+> Windows templates that can be used to create boxes for Vagrant using Packer
+
+[https://github.com/joefitzgerald/packer-windows](https://github.com/joefitzgerald/packer-windows)
+
+We have used `windows_2012_r2` template when creating Packer machine image.
+
+
 ## Author
 
 Peter Blazejewicz
