@@ -25,6 +25,13 @@ We used Packer to create machine image based on `Windows Server 2012R2` for deve
 
 We have used `windows_2012_r2` template when creating Packer machine image.
 
+### Vagrant
+
+> Vagrant provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.
+
+[https://www.vagrantup.com/](https://www.vagrantup.com/)
+
+The machine image created with `Packer` was then registered as `Vagrant` box and installed and run on local development machine with `Windows 8.1` host system.
 
 ## Author
 
