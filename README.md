@@ -42,6 +42,7 @@ The machine image created with `Packer` was then registered as `Vagrant` box and
 ## Articles
 
 - [Virtualize Your Windows Development Environments with Vagrant, Packer, and Chocolatey, Part 1](http://www.developer.com/net/virtualize-your-windows-development-environments-with-vagrant-packer-and-chocolatey-part-1.html)
+- [Virtualize Your Windows Development Environments with Vagrant, Packer, and Chocolatey, Part 2](http://www.developer.com/net/virtualize-your-windows-development-environments-with-vagrant-packer-and-chocolatey-part-2.html)
 - [Using Packer, Vagrant and Boxstarter to create Windows environments](http://blog.ruilopes.com/using-packer-vagrant-and-boxstarter-to-create-windows-environments.html)
 - [Building a Windows Vagrant Base Box with Packer](http://engineering.daptiv.com/building-a-windows-vagrant-base-box-with-packer/)
 - [Provisioning Vagrant Windows Environments with PowerShell Desired State Configuration](https://dennypc.wordpress.com/2014/12/02/vagrant-provisioning-powershell-dsc/)
