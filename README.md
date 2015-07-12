@@ -47,6 +47,10 @@ The machine image created with `Packer` was then registered as `Vagrant` box and
 - [Building a Windows Vagrant Base Box with Packer](http://engineering.daptiv.com/building-a-windows-vagrant-base-box-with-packer/)
 - [Provisioning Vagrant Windows Environments with PowerShell Desired State Configuration](https://dennypc.wordpress.com/2014/12/02/vagrant-provisioning-powershell-dsc/)
 
+## Excerpts
+
+[Some scripts excerpts from linked articles and other sources](excerpts/excerpts-with-scripts.md)
+
 ## Author
 
 Peter Blazejewicz
